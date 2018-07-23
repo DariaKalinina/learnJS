@@ -1,0 +1,26 @@
+{
+  "name": "js-20180329-1900",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "githttps://github.com/mgrinko/js-20180329-1900.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrinko/js-20180329-1900/issues"
+  },
+  "homepage": "https://github.com/mgrinko/js-20180329-1900#readme",
+  "devDependencies": {
+    "node-static": "^0.7.10"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
